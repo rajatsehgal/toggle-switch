@@ -10,14 +10,9 @@ npm install @rajatsehgal/toggle-switch --save
 ```
 
 ## Usage
-Import it
-```
-import AddToHomeScreen from '@rajatsehgal/toggle-switch/ToggleSwitch';
-```
-Render it
-```
+```js
 import React, { Component } from 'react';
-import ToggleSwitch from './ToggleSwitch';
+import ToggleSwitch from '@rajatsehgal/toggle-switch/ToggleSwitch';
 
 class App extends Component {
 
